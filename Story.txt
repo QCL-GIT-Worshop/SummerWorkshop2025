@@ -3,5 +3,7 @@
 Once upon a time in a school far far away there were 2 students
 # Middle
 
-
+There was a test on GitHub for all cmc students
 # End
+
+Everyone passed with flying colors
