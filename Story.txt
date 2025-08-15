@@ -3,3 +3,9 @@
 # Middle
 
 # End
+<<<<<<< Updated upstream
+=======
+
+Everyone passed with flying colors
+But there was a dragon spotted flying that same day...
+>>>>>>> Stashed changes
